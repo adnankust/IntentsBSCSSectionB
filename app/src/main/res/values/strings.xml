@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentsBSCSSectionB</string>
+    <string name="text_header_reply">Text Header</string>
+    <string name="button_main">Order</string>
+    <string name="editText_main">Enter Text Here</string>
+    <string name="editText_second">Enter Text Here</string>
+    <string name="text_header">Second Activity Text View</string>
+    <string name="button_second">Reply</string>
+
+</resources>
